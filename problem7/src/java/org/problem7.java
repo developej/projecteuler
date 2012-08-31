@@ -7,6 +7,7 @@ public class problem7 {
 				counter += 1;
 				if (counter == 10001) {
 					System.out.println(i);
+					break;
 				}
 			}
 		}
