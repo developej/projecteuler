@@ -1,4 +1,4 @@
-projecteuler
-============
+project euler
+=============
 
 http://projecteuler.net/
