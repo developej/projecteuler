@@ -35,6 +35,7 @@ public class problem11 {
 				}
 			}
 		}
+
 		// check vertically
 		for (int i = 0; i < 17; i++) {
 			for (int j = 0; j < 20; j++) {
@@ -44,6 +45,7 @@ public class problem11 {
 				}
 			}
 		}
+
 		// check diagonally right
 		for (int i = 0; i < 17; i++) {
 			for (int j = 0; j < 17; j++) {
@@ -53,6 +55,7 @@ public class problem11 {
 				}
 			}
 		}
+
 		// check diagonally left
 		for (int i = 0; i < 17; i++) {
 			for (int j = 3; j < 20; j++) {
