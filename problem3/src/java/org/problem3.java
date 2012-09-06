@@ -1,4 +1,8 @@
 public class problem3 {
+	public static void main(String[] args) {
+		System.out.println(lpm(600851475143L));
+	}
+
 	public static long lpm(long num) {
 		long i;
 		for (i = 2; i <= num; i++) {
@@ -8,9 +12,5 @@ public class problem3 {
 			}
 		}
 		return i;
-	}
-
-	public static void main(String[] args) {
-		System.out.println(lpm(600851475143L));
 	}
 }
